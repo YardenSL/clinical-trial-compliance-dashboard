@@ -18,5 +18,5 @@ To resolve these issues, this project implements a data-driven approach:
 3. **Results Sharing NC:** Enhancing specific language verification protocols within the PGx ICF workflow.
 
 ## 🛠️ Tools & Tech Stack
-* **Excel / Python:** For generating and structuring the mock clinical trial audit dataset (https://github.com/user-attachments/files/28646953/clinical_trials_deviation_data.xlsx).
+* **Excel / Python:** For generating and structuring the mock clinical trial audit dataset - [clinical_trials_deviation_data](clinical_trials_deviation_data.xlsx).).
 * **Power BI (Coming Soon):** Interactive dashboard visualizing site performance, deviation types, and CAPA resolution times.
