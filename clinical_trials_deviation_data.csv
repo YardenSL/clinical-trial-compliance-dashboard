@@ -1,0 +1,8 @@
+,,,,,,
+Trial_ID,Medical_Center (Site),Patient_ID,Deviation_Type,Detection_Date,CAPA_Status,Days_to_Resolve
+NCT0123,Sheba Medical Center,PT-001,Version Non-Compliance,10 01 2026,Closed,5
+NCT0123,Ichilov Hospital,PT-002,Samples Non-Compliance,12 01 2026,Open,14
+NCT0555,Soroka Medical Center,PT-089,ICF Language Issue,15 01 2026,Closed,3
+NCT0123,Sheba Medical Center,PT-004,Results Sharing NC,20 01 2026,Open,8
+NCT0999,Rambam Health Care,PT-101,Version Non-Compliance,22 01 2026,Closed,2
+NCT0555,Ichilov Hospital,PT-095,Samples Non-Compliance,25 01 2026,Open,7
