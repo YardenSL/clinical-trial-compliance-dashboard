@@ -17,6 +17,13 @@ To resolve these issues, this project implements a data-driven approach:
 2. **Samples NC:** Utilizing a *Uniform Source* (Biorepository Memo) to streamline baseline sample compliance.
 3. **Results Sharing NC:** Enhancing specific language verification protocols within the PGx ICF workflow.
 
+## 🔍 Key Insights from the Audit Data
+By analyzing the uploaded dataset (`clinical_trials_deviation_data.xlsx`), several critical regulatory and operational insights were uncovered:
+
+1. **Primary Compliance Risks:** **Version Non-Compliance** and **Samples Non-Compliance** represent 66% of all tracked deviations, showing that sites struggle most with protocol amendments and biorepository tracking.
+2. **Site Specific Performance Issues:** *Ichilov Hospital* demonstrates the highest resolution time for deviations (averaging 10.5 days), specifically around biological samples consent. This indicates a clear need for targeted GCP (Good Clinical Practice) retraining at this site.
+3. **Operational Efficiency:** *Rambam* and *Soroka* Medical Centers show the fastest CAPA (Corrective and Preventive Action) implementation, resolving issues in less than 3 days.
+
 ## 🛠️ Tools & Tech Stack
 * **Excel / Python:** For generating and structuring the mock clinical trial audit dataset - [clinical_trials_deviation_data](clinical_trials_deviation_data.xlsx).).
 * **Power BI (Coming Soon):** Interactive dashboard visualizing site performance, deviation types, and CAPA resolution times.
